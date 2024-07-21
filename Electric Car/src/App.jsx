@@ -9,6 +9,7 @@ function App() {
 
   return (
     <>
+    <h2>Welcome to car dekho </h2>
      <h1>Welcome in CarDekho project</h1>
   <AllProducts/>
     </>
